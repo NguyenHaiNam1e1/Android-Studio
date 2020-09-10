@@ -1,0 +1,128 @@
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\QuanLyBanSach.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\QuanLyBanSach.pdb
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\Antlr3.Runtime.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\EntityFramework.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\Newtonsoft.Json.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Net.Http.Formatting.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Http.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Http.WebHost.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Mvc.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Optimization.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Providers.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Razor.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.WebPages.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.WebPages.Razor.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\WebGrease.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\EntityFramework.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\Newtonsoft.Json.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Net.Http.Formatting.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Http.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Http.WebHost.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Mvc.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.Razor.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.WebPages.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\bin\System.Web.WebPages.Razor.xml
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojResolveAssemblyReference.cache
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.dll
+D:\DoAnBanSach\QuanLyBanSach\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\QuanLyBanSach.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\QuanLyBanSach.pdb
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\Antlr3.Runtime.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\EntityFramework.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\Newtonsoft.Json.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Net.Http.Formatting.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.WebHost.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Mvc.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Optimization.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Providers.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Razor.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Razor.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\WebGrease.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\EntityFramework.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\Newtonsoft.Json.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Net.Http.Formatting.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.WebHost.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Mvc.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Razor.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Razor.xml
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojResolveAssemblyReference.cache
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.dll
+D:\DoAnBanSach\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\QuanLyBanSach.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\QuanLyBanSach.pdb
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\Antlr3.Runtime.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\EntityFramework.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\Microsoft.Web.Infrastructure.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\Newtonsoft.Json.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Net.Http.Formatting.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.WebHost.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Mvc.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Optimization.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Providers.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Razor.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Deployment.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Razor.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\WebGrease.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\EntityFramework.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\Newtonsoft.Json.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Net.Http.Formatting.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.WebHost.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Mvc.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Razor.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Deployment.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Razor.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojResolveAssemblyReference.cache
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\PagedList.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\PagedList.Mvc.dll
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\PagedList.xml
+D:\DoAnBanDongHo\QuanLyBanDongHo\QuanLyBanSach\bin\PagedList.Mvc.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\QuanLyBanSach.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\QuanLyBanSach.pdb
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\Antlr3.Runtime.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\EntityFramework.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\Microsoft.Web.Infrastructure.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\Newtonsoft.Json.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\PagedList.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\PagedList.Mvc.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Net.Http.Formatting.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.WebHost.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Mvc.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Optimization.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Providers.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Razor.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Deployment.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Razor.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\WebGrease.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\PagedList.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\PagedList.Mvc.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\EntityFramework.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\Newtonsoft.Json.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Net.Http.Formatting.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Http.WebHost.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Mvc.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.Razor.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Deployment.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\bin\System.Web.WebPages.Razor.xml
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.csprojResolveAssemblyReference.cache
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.dll
+E:\Đồ án Web _Nhóm Nam_Quang\QuanLyBanDongHo\QuanLyBanSach\obj\Debug\QuanLyBanSach.pdb
