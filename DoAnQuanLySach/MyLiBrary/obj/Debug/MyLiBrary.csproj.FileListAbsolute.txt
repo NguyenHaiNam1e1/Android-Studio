@@ -1,0 +1,20 @@
+D:\DoAnQuanLySach\DoAnQuanLySach\MyLiBrary\bin\Debug\MyLiBrary.dll
+D:\DoAnQuanLySach\DoAnQuanLySach\MyLiBrary\bin\Debug\MyLiBrary.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach\MyLiBrary\obj\Debug\MyLiBrary.csprojResolveAssemblyReference.cache
+D:\DoAnQuanLySach\DoAnQuanLySach\MyLiBrary\obj\Debug\MyLiBrary.dll
+D:\DoAnQuanLySach\DoAnQuanLySach\MyLiBrary\obj\Debug\MyLiBrary.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\MyLiBrary\bin\Debug\MyLiBrary.dll
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\MyLiBrary\bin\Debug\MyLiBrary.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\MyLiBrary\obj\Debug\MyLiBrary.csprojResolveAssemblyReference.cache
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\MyLiBrary\obj\Debug\MyLiBrary.dll
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\MyLiBrary\obj\Debug\MyLiBrary.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\MyLiBrary\bin\Debug\MyLiBrary.dll
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\MyLiBrary\bin\Debug\MyLiBrary.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\MyLiBrary\obj\Debug\MyLiBrary.csprojResolveAssemblyReference.cache
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\MyLiBrary\obj\Debug\MyLiBrary.dll
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\MyLiBrary\obj\Debug\MyLiBrary.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach\MyLiBrary\bin\Debug\MyLiBrary.dll
+C:\Users\kuroo\Downloads\DoAnQuanLySach\MyLiBrary\bin\Debug\MyLiBrary.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach\MyLiBrary\obj\Debug\MyLiBrary.csprojResolveAssemblyReference.cache
+C:\Users\kuroo\Downloads\DoAnQuanLySach\MyLiBrary\obj\Debug\MyLiBrary.dll
+C:\Users\kuroo\Downloads\DoAnQuanLySach\MyLiBrary\obj\Debug\MyLiBrary.pdb

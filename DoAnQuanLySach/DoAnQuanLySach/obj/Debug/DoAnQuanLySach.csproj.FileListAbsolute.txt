@@ -1,0 +1,95 @@
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe.config
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.csprojResolveAssemblyReference.cache
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Properties.Resources.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.csproj.GenerateResource.Cache
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.exe
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\MyLiBrary.dll
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\MyLiBrary.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmSach.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmSuaSach.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmtacGia.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmHoaDon.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmKhachHang.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmNhaXuatBan.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmThamGia.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe.config
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.exe
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\MyLiBrary.dll
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\MyLibrary02.dll
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\MyLibrary02.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\MyLiBrary.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.csprojResolveAssemblyReference.cache
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmHoaDon.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmKhachHang.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmNhaXuatBan.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmSach.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmSuaSach.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmtacGia.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmThamGia.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmThemSach1.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Properties.Resources.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.csproj.GenerateResource.Cache
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.GiaoDien.FormDangNhap.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.GiaoDien.FormSach.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe.config
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.exe
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\MyLiBrary.dll
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\MyLibrary02.dll
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\MyLibrary02.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\bin\Debug\MyLiBrary.pdb
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.csprojResolveAssemblyReference.cache
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmHoaDon.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmKhachHang.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmNhaXuatBan.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmSach.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmSuaSach.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmtacGia.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmThamGia.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmThemSach1.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.GiaoDien.FormDangNhap.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.GiaoDien.FormSach.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Properties.Resources.resources
+D:\DoAnQuanLySach\DoAnQuanLySach(Phần 2)\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.csproj.GenerateResource.Cache
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe.config
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.exe
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\MyLiBrary.dll
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\MyLiBrary.pdb
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.csprojResolveAssemblyReference.cache
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmHoaDon.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmKhachHang.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmNhaXuatBan.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmSach.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmSuaSach.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmtacGia.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmThamGia.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.GiaoDien.FormDangNhap.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.GiaoDien.FormSach.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Properties.Resources.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.csproj.GenerateResource.Cache
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmThemSach.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmRptSach.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Forms.frmRptKhachHang.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Forms.frmRptNXB.resources
+C:\Users\kuroo\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Forms.frmRptTacGia.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Forms.frmRptKhachHang.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Forms.frmRptNXB.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.Forms.frmRptTacGia.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmRptSach.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.frmThemSach.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.GiaoDien.FormDangNhap.resources
+D:\DoAnQuanLySach\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.GiaoDien.FormSach.resources
+C:\Users\MSI GF63\Downloads\DoAnQuanLySach\DoAnQuanLySach\bin\Debug\DoAnQuanLySach.exe.config
+C:\Users\MSI GF63\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.exe
+C:\Users\MSI GF63\Downloads\DoAnQuanLySach\DoAnQuanLySach\obj\Debug\DoAnQuanLySach.pdb
